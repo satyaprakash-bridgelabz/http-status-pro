@@ -1,6 +1,6 @@
 {
   "name": "http-status-pro-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A lightweight utility to get HTTP status codes and their corresponding human-readable messages.",
   "main": "index.js",
   "type": "commonjs",
