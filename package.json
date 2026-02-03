@@ -1,0 +1,33 @@
+{
+  "name": "http-status-pro-messages",
+  "version": "1.0.0",
+  "description": "A lightweight utility to get HTTP status codes and their corresponding human-readable messages.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "http",
+    "status-codes",
+    "http-messages",
+    "rest-api",
+    "responses",
+    "node-js",
+    "backend"
+  ],
+  "author": "Aapka Naam",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aapka-username/http-status-pro.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aapka-username/http-status-pro/issues"
+  },
+  "homepage": "https://github.com/aapka-username/http-status-pro#readme",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
